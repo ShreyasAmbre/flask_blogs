@@ -1,0 +1,13 @@
+{
+  "params":
+  {
+    "local_server": "True",
+    "local_uri": "mysql+mysqlconnector://root:@localhost/condingthunder",
+    "prod_uri": "mysql+mysqlconnector://root:@localhost/condingthunder",
+    "fb_url":"http://facebook.com/codingthunder",
+    "tw_url": "http://twitter.com/codingthunder",
+    "gh_url": "http://github.com/codingthunder",
+    "gmail_user": "shreyasambre00@gmail.com",
+    "g_pass": "814942152800"
+  }
+}
